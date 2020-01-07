@@ -73,3 +73,7 @@ if numGuesses <= MAX_GUESSES and solved :
 else:
     print("\n\nOh no! You did not guess the word")
     print("The word was " + word)
+
+programPause = input("\nPress the ANY key to exit...")
+
+    
